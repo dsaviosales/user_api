@@ -11,5 +11,5 @@ npm init -y
 ## 2. Instalando o nodemon e o express
 
 ```js
-npm install --save-dev nodemon express body-parser cors morgan dotenv helmet
+npm install nodemon express
 ```
